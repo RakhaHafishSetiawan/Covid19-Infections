@@ -3,4 +3,8 @@
 
 
 # Covid19-Infections-Dashboard
-My Power BI dashboard project on the Omicron Dataset by Yam Peleg on Kaggle.
+Power BI dashboard project on the Omicron Dataset by Yam Peleg on Kaggle. This visualization contains information regarding the evolution of the worldwide Covid-19 infection number and the location of the infection spread.
+
+# Tools
+• Microsoft Excel <br>
+• Microsoft Power BI
